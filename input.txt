@@ -1,0 +1,5 @@
+*** This is the input file, make any changes you like ***
+*** Any line not in format "itemName, price" will be skipped ***
+*** Also any line containing the 3 stars (***) anywhere will be skipped. ***
+Hamburger, 8.99
+Cheeseburger, 10.99
